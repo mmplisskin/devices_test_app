@@ -10,4 +10,3 @@
   @device = FactoryBot.create(:device)
   pp @device
 end
- 
