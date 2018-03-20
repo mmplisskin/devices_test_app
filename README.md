@@ -4,6 +4,9 @@
 
 ```rake db:setup```
 
+Specs and be run
+
+```rails test```
 
 
 ### post /devices
