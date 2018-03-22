@@ -4,7 +4,7 @@
 
 ```rake db:setup```
 
-Specs and be run
+Specs can be run
 
 ```rails test```
 
